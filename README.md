@@ -147,4 +147,3 @@ This project is for educational purposes as part of B.Tech final year project.
 
 
 
-## 📸 Screenshots
